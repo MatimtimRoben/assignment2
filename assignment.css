@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    font-size: 5rem;
+    color: #283149;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #debc7c;
+}
+.luffy {
+    background-image: url("luffy.png");
+}
+.naruto {
+    background-image: url("naruto.png");
+}
+.ichigo {
+    background-image: url("ichigo.png");
+}
+.goku {
+    background-image: url("goku.png");
+}
+.tanjiro {
+    background-image: url("tanjiro.png");
+}
+.asta {
+    background-image: url("asta.png");
+}
+.anime {
+    background-size: cover;
+    background-color: transparent;
+    border-radius: 25px;
+    color: transparent;
+    width: 500px;
+    height: 500px;
+    margin: 15px;
+}
